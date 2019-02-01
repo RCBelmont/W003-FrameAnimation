@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4635fb9fbed3f0940899d74e9de74c01, type: 3}
+  m_Name: FFFF_DataPack
+  m_EditorClassIdentifier: 
+  Sheet: {fileID: 2800000, guid: a9b0ef0f55cdbf444a1639331b2037ed, type: 3}
+  DataTex: {fileID: 2800000, guid: 00b8768d34a79164185818a3ad5f60fe, type: 2}
+  ClipName:
+  - ui_xulie
+  ClipStartIdx:
+  - {x: 0, y: 10}
+  DataTexSize: {x: 8, y: 4}

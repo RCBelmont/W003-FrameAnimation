@@ -1,0 +1,8 @@
+/FrameAnimation/Library
+/FrameAnimation/Logs
+/FrameAnimation/FrameAnimation.sln
+/FrameAnimation/*.sln
+/FrameAnimation/.vs
+/FrameAnimation/Temp
+/FrameAnimation/obj
+/FrameAnimation/*.csproj
